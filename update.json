@@ -1,0 +1,1 @@
+{"versionCode": 6, "versionName": "1.5", "apk": "mantis-iptv-v1.5.apk", "sha256": "9570e65c47724cac06b0e129cedfdfc23c1ad91413765b11f96f78983e1c5155", "notes": "Mantis IPTV 1.5: fixes two streams playing at once (a channel still opening could keep playing after a zap or after leaving the app); changing the buffer size no longer starts the stream behind Settings."}
